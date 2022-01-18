@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Laurentiu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Cloudflare
 - 💞️ I’m looking to collaborate on anything related to web development
 - 📫 How to reach me laur80raul@gmail.com
 
